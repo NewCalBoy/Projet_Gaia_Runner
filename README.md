@@ -9,5 +9,9 @@ Voici ci-joint un exemple de rover avec un bras articulé.
 
 Dans un premier temps nous réaliserons d'abord le châssis, puis nous réaliserons dans un second temps la pince.
 
+## Différentes parties
+### Partie 1 : Rover
+### Partie 2 : Bras articulé
+### Partie 3 : Pilotage
 ## Présentation
 Lien de la présentation : https://www.canva.com/design/DAG3vKNjyPE/KJl2cilKYN6kFEWi7G_Mkw/edit?utm_content=DAG3vKNjyPE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
