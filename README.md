@@ -11,7 +11,7 @@ Dans un premier temps nous réaliserons d'abord le châssis, puis nous réaliser
 
 ## Différentes parties
 ### Partie 1 : Rover
-### Partie 2 : Bras articulé
+### Partie 2 : Bras robotisé
 ### Partie 3 : Pilotage
 ## Présentation
 Lien de la présentation : https://www.canva.com/design/DAG3vKNjyPE/KJl2cilKYN6kFEWi7G_Mkw/edit?utm_content=DAG3vKNjyPE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
