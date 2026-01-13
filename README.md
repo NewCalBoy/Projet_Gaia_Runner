@@ -5,7 +5,7 @@ Projet de 2ème année 2025 by SERAPHIN Bradley et DAVERAT Arthur
 Le projet consiste a créer un petit robot de type rover avec un bras articulé. La particularité du projet est qu'il est à architecture déporté, c'est-à-dire que le contrôle des roues est gérée par un microcontrôleur, autre que le microcontrôleur principal.
 
 Voici ci-joint un exemple de rover avec un bras articulé.
-<img width="640" height="480" alt="image" src="[https://github.com/user-attachments/assets/dd0d3921-a253-4d0d-b6a6-c142eb75710d](https://github.com/FumesecALPHA/Projet_Gaia_Runner/blob/main/media/picture/Exemple%20de%20rover%20avec%20un%20bras%20articul%C3%A9.jpg?raw=true)" />
+[https://github.com/user-attachments/assets/dd0d3921-a253-4d0d-b6a6-c142eb75710d](https://github.com/FumesecALPHA/Projet_Gaia_Runner/blob/main/media/picture/Exemple%20de%20rover%20avec%20un%20bras%20articul%C3%A9.jpg?raw=true)"
 
 Dans un premier temps nous réaliserons d'abord le châssis, puis nous réaliserons dans un second temps la pince.
 
