@@ -5,4 +5,6 @@ Chacune des quatre roues comporte une série de rouleaux dotés d'un axe de rota
 
 ## Déplacement
 Pour notre Rover à 4 roues motrices, les déplacement consiste à contrôler le sens de rotation ainsi que la vitesse de rotation.
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c6efb387-03f4-455c-a36f-8140da90e55c" />
+<img width="1261" height="653" alt="image" src="https://github.com/user-attachments/assets/5713fbef-426a-48fc-b624-86cd752e79fe" />
+
+## Exemple en vidéo
