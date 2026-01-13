@@ -5,7 +5,7 @@ Projet de 2ème année 2025 by SERAPHIN Bradley et DAVERAT Arthur
 Le projet consiste a créer un petit robot de type rover avec un bras articulé. La particularité du projet est qu'il est à architecture déporté, c'est-à-dire que le contrôle des roues est gérée par un microcontrôleur, autre que le microcontrôleur principal.
 
 Voici ci-joint un exemple de rover avec un bras articulé.
-![ExempleGR](media/picture/Exemple_de_rover_avec_un_bras articule.jpg)
+![ExempleGR](media/picture/Exemple_de_rover_avec_un_bras_articule.jpg)
 
 Dans un premier temps nous réaliserons d'abord le châssis, puis nous réaliserons dans un second temps la pince.
 
