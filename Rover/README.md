@@ -17,8 +17,19 @@ Les différentes solutions techniques retenues sont :
 
 <details>
   <summary><strong>Les moteurs DC FIT0186 de chez DFROBOT (JGB37-3530B)</strong></summary>  
-    
+
+Comme le projet consiste à commander le robot le choix d'un moteur DC est pertinent, de plus le modèle choisit présente un encodeur ce qui permet un asservissement en vitesse si nécessaire. Plus de détail dans [Moteur DC](https://github.com/FumesecALPHA/Projet_Gaia_Runner/tree/674c549c6b83edb7b40dcca6f1f06973df5d85ec/Rover/Moteur_DC).
   
-  Comme le projet consiste à commander le robot le choix d'un moteur DC est pertinent, de plus le modèle choisit présente un encodeur ce qui permet un asservissement en vitesse si nécessaire. Plus de détail dans [Moteur DC](https://github.com/FumesecALPHA/Projet_Gaia_Runner/tree/674c549c6b83edb7b40dcca6f1f06973df5d85ec/Rover/Moteur_DC).
+</details>
+<details>
+  <summary><strong>Les roues omnidirectionnelles</strong></summary>  
+
+Le choix des roues omnidirectionnelles vient du faites qu'il s'agit du moyen le plus adapté pour déplacer notre robot avec une architecture à 4 roues motrices. Plus de détail dans [Roues omnidirectionnelles](https://github.com/FumesecALPHA/Projet_Gaia_Runner/).
+  
+</details>
+<details>
+  <summary><strong>Les PCBs Esclave</strong></summary>  
+
+Le but de ces PCBs est de séparer le contrôle des moteurs DC du PCB Maître, cela permet de s'adapter à un châssis avec 4, 6 ou encore 2 roues motrices. Plus de détail dans [PCB Esclave](https://github.com/FumesecALPHA/Projet_Gaia_Runner/tree/e2f8844e70fb53f83aae1d3a5f0e776781000f04/Rover/PCB_Slave).
   
 </details>
