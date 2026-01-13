@@ -18,6 +18,7 @@ Les différentes solutions techniques retenues sont :
 <details>
   <summary><strong>Les moteurs DC FIT0186 de chez DFROBOT (JGB37-3530B)</strong></summary>  
     
-Comme le projet consiste à commander le robot le choix d'un moteur DC est pertinent, de plus le modèle choisit présente un encodeur ce qui permet un asservissement en vitesse si nécessaire. Plus de détail dans [Moteur DC](https://github.com/FumesecALPHA/Projet_Gaia_Runner/tree/674c549c6b83edb7b40dcca6f1f06973df5d85ec/Rover/Moteur_DC).
+  
+  Comme le projet consiste à commander le robot le choix d'un moteur DC est pertinent, de plus le modèle choisit présente un encodeur ce qui permet un asservissement en vitesse si nécessaire. Plus de détail dans [Moteur DC](https://github.com/FumesecALPHA/Projet_Gaia_Runner/tree/674c549c6b83edb7b40dcca6f1f06973df5d85ec/Rover/Moteur_DC).
   
 </details>
