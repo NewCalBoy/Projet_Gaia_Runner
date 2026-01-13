@@ -9,4 +9,4 @@ L'incovénient est que plusieurs PCBs impliquent potentiellement plus de PCB en 
 Voici ci-dessous un schéma du Rover
 
 <img width="808" height="810" alt="image" src="https://github.com/user-attachments/assets/298b60f3-5451-477a-a77e-840785801af8" />
-*Figure_1_:_Schéma_du_Rover*
+* Figure 1 : Schéma du Rover *
