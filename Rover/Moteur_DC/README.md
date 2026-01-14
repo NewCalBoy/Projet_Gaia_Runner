@@ -7,4 +7,6 @@ Les moteurs choisient sont des moteurs 12V 251 tr/min 18 kg/cm de chez DFROBOT (
 On modélise la situation de la façon suivante :  
 
 <ins> __Bilan des forces :__ </ins>  
-$overrightarrow{F_r}$
+¤ $\overrightarrow{P}$ : le poids
+¤ $\vect{C_(m1)}$ : couple __d'un__ moteur
+
