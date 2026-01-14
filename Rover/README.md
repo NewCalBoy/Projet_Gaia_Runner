@@ -24,7 +24,7 @@ Comme le projet consiste à commander le robot le choix d'un moteur DC est perti
 <details>
   <summary><strong>Les roues omnidirectionnelles</strong></summary>  
 
-Le choix des roues omnidirectionnelles vient du faites qu'il s'agit du moyen le plus adapté pour déplacer notre robot avec une architecture à 4 roues motrices. Plus de détail dans [Roues omnidirectionnelles](https://github.com/FumesecALPHA/Projet_Gaia_Runner/).
+Le choix des roues omnidirectionnelles vient du faites qu'il s'agit du moyen le plus adapté pour déplacer notre robot avec une architecture à 4 roues motrices. Plus de détail dans [Roues omnidirectionnelles](https://github.com/FumesecALPHA/Projet_Gaia_Runner/blob/main/Rover/Roues_omnidirectionnelles).
   
 </details>
 <details>
