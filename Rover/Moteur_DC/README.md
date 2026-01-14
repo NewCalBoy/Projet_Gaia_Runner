@@ -10,3 +10,5 @@ On modélise la situation de la façon suivante :
 ¤ $\overrightarrow{P}$ : le poids  
 ¤ $\overrightarrow{C_{m1}}$ : couple __d'un__ moteur
 
+<ins> __Calcul :__ <\ins>  
+On sait que $\overrightarrow{C_{m1}}=\fract{\overrightarrow{F_{m1}},R}$
