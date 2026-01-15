@@ -9,6 +9,10 @@ On modélise la situation de la façon suivante :
 <ins> __Bilan des forces :__ </ins>  
 ¤ $\overrightarrow{P}$ : le poids  
 ¤ $\overrightarrow{C_{m1}}$ : couple __d'un__ moteur
+¤ $\overrightarrow{F}$ : force d'adhérence
+¤ $\overrightarrow{F_r}$ : réaction du support
 
 <ins> __Calcul :__ </ins>  
-On sait que $\overrightarrow{C_{m1}}=\frac{\overrightarrow{F_{m1}}}{R}$, donc $\overrightarrow{F_{m1}}=\overrightarrow{C_{m1}}*R$
+On sait que $\overrightarrow{C_{m1}}=\frac{\overrightarrow{F_{m1}}}{R}$, donc $\overrightarrow{F_{m1}}=\overrightarrow{C_{m1}}*R$  
+D'après la 2nd loi de Newton :  
+$\overrightarrow{F_{m1}}+\overrightarrow{F}+\overrightarrow{P}\overrightarrow{F_r}=m\overrightarrow{a}$
