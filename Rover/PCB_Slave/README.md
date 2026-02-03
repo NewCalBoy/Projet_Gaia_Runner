@@ -3,7 +3,7 @@
 ## Description
 Voici le PCB Esclave qui a pour but de gérer la commande des moteurs DC.
 <p align="center">
-<img src="Projet_Gaia_Runner/Rovers/PCB_Slave/pcb_slave_3d.png" alt="Description de l'image" width="300">
+<img src="pcb_slave_3d.png" alt="Description de l'image" width="300">
 </p>
 
 ## Fonctionnement
