@@ -6,6 +6,7 @@ Voici le PCB Esclave qui a pour but de gérer la commande des moteurs DC.
 <img src="pcb_slave_3d.png"  width="300">
 </p>
 
+
 ## Fonctionnement
 ### Etape 1
 Le PCB Maître communique un octet avec le PCB Esclave via I2C. 
