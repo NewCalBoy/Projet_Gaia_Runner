@@ -2,7 +2,7 @@
 
 ## Description
 Voici le PCB Esclave qui a pour but de gérer la commande des moteurs DC.
-<img width="819" height="788" alt="image" src="https://github.com/user-attachments/assets/bbe42671-e897-467a-b92f-5052a713974a" />
+<img width="410" height="394" alt="image" src="https://github.com/user-attachments/assets/bbe42671-e897-467a-b92f-5052a713974a" />
 
 
 ## Fonctionnement
