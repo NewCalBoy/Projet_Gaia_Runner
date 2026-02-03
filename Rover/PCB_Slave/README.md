@@ -6,6 +6,8 @@ Voici le PCB Esclave qui a pour but de gérer la commande des moteurs DC.
 <img src="pcb_slave_3d.png"  width="300">
 </p>
 
+Il y a 4 composants principaux : le microcontrolleur, le pont H, le LDO et l'optocoupleur.
+Nous avons également 4 connecteurs JST : deux JST pour  l'I2C, un jst pour l'alimentation et un pour le moteur.
 
 ## Fonctionnement
 ### Etape 1
